@@ -19,4 +19,4 @@ faster to room issues. For housing facilities staff, it optimizes workflows and 
 enhance overall service quality.
 
 **Remark:
-This project is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
+This is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
