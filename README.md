@@ -17,3 +17,6 @@ and task urgency to automatically optimize technician work orders and parts proc
 The Residential College Fault Tracking System aims to improve student satisfaction by responding 
 faster to room issues. For housing facilities staff, it optimizes workflows and provides data insights to 
 enhance overall service quality.
+
+**Remark:
+This project is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
