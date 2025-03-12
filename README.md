@@ -18,5 +18,9 @@ The Residential College Fault Tracking System aims to improve student satisfacti
 faster to room issues. For housing facilities staff, it optimizes workflows and provides data insights to 
 enhance overall service quality.
 
+Program Output:
+![image](https://github.com/user-attachments/assets/0d1dbffd-d0f7-4c9e-bc2c-0e235d6543b3)
+
+
 **Remark:
 This is a collaborative group project. Credit goes to my coursemates for their valuable contributions.**
